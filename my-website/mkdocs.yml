@@ -6,3 +6,14 @@ theme:
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
+
+# 日英切り替えの設定
+plugins:
+  - search
+  - i18n:
+      languages:
+        - locale: ja
+          name: 日本語
+          default: true
+        - locale: en
+          name: English
