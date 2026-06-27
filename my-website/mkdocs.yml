@@ -1,0 +1,8 @@
+site_name: 氏名 - ポートフォリオ
+theme:
+  name: material
+
+# Markdown拡張（数式表示などを有効化）
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
