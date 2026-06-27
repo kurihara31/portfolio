@@ -1,9 +1,9 @@
 site_name: Kota Kurihara - Portfolio
+site_url: https://kurihara31.github.io/portfolio/
+
 theme:
   name: material
   language: ja
-  features:
-    - navigation.tabs
 
 markdown_extensions:
   - pymdownx.arithmatex:
@@ -18,8 +18,7 @@ plugins:
           default: true
         - locale: en
           name: English
-      reconfigure_material: true
 
-# 404エラーを防ぐための設定
-extra:
-  directory_urls: false
+nav:
+  - Home: index.md
+  - Publications: publications.md
