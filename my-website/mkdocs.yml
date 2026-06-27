@@ -1,13 +1,18 @@
-site_name: 氏名 - ポートフォリオ
+site_name: 栗原昂汰
 theme:
   name: material
 
-# Markdown拡張（数式表示などを有効化）
+
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
 
-# 日英切り替えの設定
+# ▼▼ メニューバーを綺麗に整える設定 ▼▼
+nav:
+  - Home: index.md
+  - Publications: publications.md
+
+# ▼▼ 言語設定 ▼▼
 plugins:
   - search
   - i18n:
