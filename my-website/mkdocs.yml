@@ -1,18 +1,15 @@
-site_name: 栗原昂汰
+site_name: Kota Kurihara - Portfolio
 theme:
   name: material
-
+  language: ja
+  features:
+    - content.code.copy
+    - navigation.tabs
 
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
 
-# ▼▼ メニューバーを綺麗に整える設定 ▼▼
-nav:
-  - Home: index.md
-  - Publications: publications.md
-
-# ▼▼ 言語設定 ▼▼
 plugins:
   - search
   - i18n:
@@ -22,3 +19,9 @@ plugins:
           default: true
         - locale: en
           name: English
+      # 言語選択をヘッダーに分かりやすく表示させる設定
+      reconfigure_material: true 
+
+nav:
+  - Home: index.md
+  - Publications: publications.md
