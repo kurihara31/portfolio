@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-        <loc>None./</loc>
+        <loc>https://kurihara31.github.io/portfolio/</loc>
         <lastmod>2026-06-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ja" href="None"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://kurihara31.github.io/portfolio/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kurihara31.github.io/portfolio/en/"/>
     </url>
     <url>
-        <loc>Nonepublications/</loc>
+        <loc>https://kurihara31.github.io/portfolio/publications/</loc>
         <lastmod>2026-06-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ja" href="Nonepublications/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/publications/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://kurihara31.github.io/portfolio/publications/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kurihara31.github.io/portfolio/en/publications/"/>
     </url>
     <url>
-        <loc>Noneen/</loc>
+        <loc>https://kurihara31.github.io/portfolio/en/</loc>
         <lastmod>2026-06-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="None"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kurihara31.github.io/portfolio/en/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://kurihara31.github.io/portfolio/"/>
     </url>
     <url>
-        <loc>Noneen/publications/</loc>
+        <loc>https://kurihara31.github.io/portfolio/en/publications/</loc>
         <lastmod>2026-06-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/publications/"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="Nonepublications/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kurihara31.github.io/portfolio/en/publications/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://kurihara31.github.io/portfolio/publications/"/>
     </url>
 </urlset>
